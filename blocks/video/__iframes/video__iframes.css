@@ -1,0 +1,12 @@
+.video__iframes {
+	position: sticky;
+	margin-bottom: -50px;
+	margin-top: 50px;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+  }
+  .video__iframes :last-of-type {
+	margin-right: 0;
+  }

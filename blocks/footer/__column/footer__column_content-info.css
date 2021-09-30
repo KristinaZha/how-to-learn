@@ -1,0 +1,9 @@
+.footer__column_content-info {
+	position: relative;
+	margin: 0 auto;
+  }
+
+  .footer__column_content-info :hover + .footer__column-link {
+	opacity: 0.3;
+	transition: 1s ease-in-out;
+  }

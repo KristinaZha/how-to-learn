@@ -1,0 +1,8 @@
+.khan__book-container {
+	display: flex;
+	margin-top: 68px;
+  }
+  .khan__book-container:hover .khan__buy-link {
+	opacity: 0.4;
+	transition: 1s ease-in-out;
+  }

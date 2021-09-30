@@ -1,0 +1,8 @@
+.footer__column-link {
+	position: relative;
+	margin-top: 0;
+	align-self: start;
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+  }

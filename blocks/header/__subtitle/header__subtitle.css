@@ -1,0 +1,15 @@
+.header__subtitle {
+	position: absolute;
+	z-index: 2;
+	left: 64px;
+	bottom: 30px;
+	width: 388px;
+	margin: 0;
+	line-height: 25px;
+	font-size: 18px;
+	font-weight: normal;
+  }
+  .header__subtitle :hover {
+	opacity: 0.4;
+	transition: 1s ease-in-out;
+  }
