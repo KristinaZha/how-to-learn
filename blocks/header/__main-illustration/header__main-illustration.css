@@ -1,7 +1,7 @@
-.header__main-illustraition {
+.header__main-illustration {
 	position: absolute;
 	z-index: 1;
-	object-position: right 0px ;
+	object-position: right 0px;
 	object-fit: contain;
 	right: 0;
 	bottom: 0;
