@@ -5,4 +5,7 @@
 	margin-bottom: 0;
 	margin-left: 0;
 	margin-right: 48px;
+	object-position: top 0px left 0px;
+	object-fit: cover;
+	
   }

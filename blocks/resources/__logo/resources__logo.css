@@ -7,8 +7,4 @@
 	list-style-type: none;
   }
 
-  .resources__logo :hover {
-	transition: 1s ease-in-out;
-	opacity: 0.5;
-  }
-  
+ 

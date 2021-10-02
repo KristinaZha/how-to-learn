@@ -1,5 +1,5 @@
 .video__iframes {
-	position: sticky;
+	position: relative;
 	margin-bottom: -50px;
 	margin-top: 50px;
 	display: flex;
@@ -7,6 +7,6 @@
 	margin-right: auto;
 	justify-content: center;
   }
-  .video__iframes :last-of-type {
+  .video__iframes:last-of-type {
 	margin-right: 0;
   }
